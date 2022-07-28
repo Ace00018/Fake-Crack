@@ -1,0 +1,5 @@
+C:\Users\Ace\source\repos\Crack Template\Crack Template\bin\Release\net6.0\publish\Crack Template.exe
+C:\Users\Ace\source\repos\Crack Template\Crack Template\bin\Release\net6.0\publish\Crack Template.dll
+C:\Users\Ace\source\repos\Crack Template\Crack Template\bin\Release\net6.0\publish\Crack Template.deps.json
+C:\Users\Ace\source\repos\Crack Template\Crack Template\bin\Release\net6.0\publish\Crack Template.runtimeconfig.json
+C:\Users\Ace\source\repos\Crack Template\Crack Template\bin\Release\net6.0\publish\Crack Template.pdb
